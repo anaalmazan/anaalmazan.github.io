@@ -13,10 +13,10 @@ widget1:
   image: widget-1-302x182.jpg
   text: 'Biopic de Lady Di que cuenta la historia de un fin de semana crucial a principios de los años 90, cuando la princesa Diana -de nombre Diana Frances Spencer- decidió que su matrimonio con el príncipe Carlos no estaba funcionando, y que necesitaba desviarse de un camino que la había puesto en primera fila para algún día ser reina... El drama tiene lugar durante tres días, en una de sus últimas vacaciones de Navidad en la Casa de Windsor en su finca de Sandringham en Norfolk, Inglaterra.'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Talento Mexicano: Alexandra Can"
+  url: 'https://www.instagram.com/alexandra_cn_/'
+  text: '<em>La artista cancunense</em> Alexandra Can nos sorprende con un cover del éxito de Olivia rodrigo "Driver License".'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://anaalmazan.github.io/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Lo que no vistes en el nuevo tráiler de Doctor Strange: en el multiverso de la locura"
   url: 'https://www.youtube.com/watch?v=_IwvFi5TRr0'
@@ -46,7 +46,7 @@ homepage: true
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=bd9j1XpbJCg" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
