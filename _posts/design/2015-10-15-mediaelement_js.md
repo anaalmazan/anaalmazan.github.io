@@ -61,7 +61,7 @@ All possible functions and how to use *mediaelement.js* is well-documented on th
 
 
 
- [1]: https://open.spotify.com/playlist/37i9dQZF1DX8f2x5zbH0oM?si=bd3ea4c4e4094688
+ [1]: https://open.spotify.com/playlist/37i9dQZF1DX8f2x5zbH0oM?si=b3f1b39dcdc34377&nd=1
  [2]: http://jcorneille.de/
  [3]: www.creativecommons.org/licenses/by-nc-nd/3.0/
  [4]: http://phlow-magazine.com/
