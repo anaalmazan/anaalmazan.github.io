@@ -18,10 +18,10 @@ widget2:
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  title: "Lo que no vistes en el nuevo tráiler de Doctor Strange: en el multiverso de la locura"
+  url: 'https://www.youtube.com/watch?v=_IwvFi5TRr0'
   image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  text: '<em>La espera ha terminado</em> y el nuevo tráiler de la secuela de Doctor Strange ha salido. En dos minutos y diecisiete segundos hemos notado muchas referencias escondidas que te aseguramos no haz notado.'
 #
 # Use the call for action to show a button on the frontpage
 #
