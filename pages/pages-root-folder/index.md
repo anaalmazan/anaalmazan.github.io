@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Blog & Portfolio"
+  title: "película del mes: Spencer"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Biopic de Lady Di que cuenta la historia de un fin de semana crucial a principios de los años 90, cuando la princesa Diana -de nombre Diana Frances Spencer- decidió que su matrimonio con el príncipe Carlos no estaba funcionando, y que necesitaba desviarse de un camino que la había puesto en primera fila para algún día ser reina... El drama tiene lugar durante tres días, en una de sus últimas vacaciones de Navidad en la Casa de Windsor en su finca de Sandringham en Norfolk, Inglaterra.'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
