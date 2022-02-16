@@ -14,7 +14,7 @@ widget1:
   text: 'Biopic de Lady Di que cuenta la historia de un fin de semana crucial a principios de los años 90, cuando la princesa Diana -de nombre Diana Frances Spencer- decidió que su matrimonio con el príncipe Carlos no estaba funcionando, y que necesitaba desviarse de un camino que la había puesto en primera fila para algún día ser reina... El drama tiene lugar durante tres días, en una de sus últimas vacaciones de Navidad en la Casa de Windsor en su finca de Sandringham en Norfolk, Inglaterra.'
 widget2:
   title: "Talento Mexicano: Alexandra Can"
-  url: 'https://www.instagram.com/alexandra_cn_/'
+  url: 'https://www.youtube.com/watch?v=bd9j1XpbJCg'
   text: '<em>La artista cancunense</em> Alexandra Can nos sorprende con un cover del éxito de Olivia rodrigo "Driver License".'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://anaalmazan.github.io/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
