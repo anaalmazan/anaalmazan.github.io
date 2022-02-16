@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Música"
 title: "Playlist del mes"
-teaser: "¿Escuchas siempre la misma música? Si estás cansado de repetir canciones, aqui te tenemos el playlist del mes para personas que les guste probar nuevos géneros.[Playlist del mes][1]"
+teaser: "¿Escuchas siempre la misma música? Si estás cansado de repetir canciones, aqui te tenemos el playlist del mes para personas que les guste probar nuevos géneros. https://open.spotify.com/playlist/37i9dQZF1DX8f2x5zbH0oM?si=b3f1b39dcdc34377&nd=1 "
 categories:
   - design
 tags:
