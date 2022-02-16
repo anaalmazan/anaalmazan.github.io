@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "película del mes: Spencer"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: 'https://www.imdb.com/title/tt12536294/'
   image: widget-1-302x182.jpg
   text: 'Biopic de Lady Di que cuenta la historia de un fin de semana crucial a principios de los años 90, cuando la princesa Diana -de nombre Diana Frances Spencer- decidió que su matrimonio con el príncipe Carlos no estaba funcionando, y que necesitaba desviarse de un camino que la había puesto en primera fila para algún día ser reina... El drama tiene lugar durante tres días, en una de sus últimas vacaciones de Navidad en la Casa de Windsor en su finca de Sandringham en Norfolk, Inglaterra.'
 widget2:
