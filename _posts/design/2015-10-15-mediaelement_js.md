@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Música"
 title: "Playlist del mes"
-teaser: "¿Escuchas siempre la misma música? Si estás cansado de repetir canciones, aqui te tenemos el playlist del mes para personas que les guste probar nuevos géneros.[https://open.spotify.com/playlist/37i9dQZF1DX8f2x5zbH0oM?si=cc413e05b01b4154][1]"
+teaser: "¿Escuchas siempre la misma música? Si estás cansado de repetir canciones, aqui te tenemos el playlist del mes para personas que les guste probar nuevos géneros.[Playlist del mes][1]"
 categories:
   - design
 tags:
@@ -61,7 +61,7 @@ All possible functions and how to use *mediaelement.js* is well-documented on th
 
 
 
- [1]: http://mediaelementjs.com/
+ [1]: https://open.spotify.com/playlist/37i9dQZF1DX8f2x5zbH0oM?si=bd3ea4c4e4094688
  [2]: http://jcorneille.de/
  [3]: www.creativecommons.org/licenses/by-nc-nd/3.0/
  [4]: http://phlow-magazine.com/
